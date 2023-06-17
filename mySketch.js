@@ -8,7 +8,7 @@ function setup() {
 function draw() {
 	//circle(mouseX, mouseY, 20);
 	//background('#f7f7f7');	
-	background('#868B96');
+	background('#3d3d3d');
 	drawGrid(20);         // 모눈종이표	
 	
 		//버튼 추가
